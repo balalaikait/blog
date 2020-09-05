@@ -1,5 +1,7 @@
 ## balalaika IT newsletter #9
 
+*If you like this newsletter subscribe to our new issues at http://balalaikait.com/*
+
 # General
 - CPU caching 101 from Nick Evanson. A [concise read](https://www.techspot.com/article/2066-cpu-l1-l2-l3-cache/) about the fundamentals to get you started on how it works and why we need it. 
 - Over the last two years, Uber has attempted to reduce microservice complexity while still maintaining the benefits of a microservice architecture. With [this blog post]( https://eng.uber.com/microservice-architecture/) we hope to introduce our generalized approach to microservice architectures, which we refer to as “Domain-Oriented Microservice Architecture” (DOMA).
