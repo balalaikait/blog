@@ -23,4 +23,4 @@
 
 - Animations can make a site stand out. Or, they can just as easily kill the experience. Prasanjit Singh presents us with [the ground rules](https://css-tricks.com/ground-rules-for-web-animations/) to master web animations.
 - AVIF is a fairly new kid on the block and it promises us a new future of the leaner web with smaller images. JPEG is not dead yet, but we keep our fingers crossed. Here is a [concise read](https://jakearchibald.com/2020/avif-has-landed/) from Jake Archibald on the new image format.
-- Wondering how Facebook's Recoil works? Bennett Hardwick [explained it for you](hhttps://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/) in 100 lines of code. 
+- Wondering how Facebook's Recoil works? Bennett Hardwick [explained it for you](https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/) in 100 lines of code. 
