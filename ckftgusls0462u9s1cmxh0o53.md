@@ -1,5 +1,7 @@
 ## balalaika IT newsletter #11
 
+*If you like this newsletter subscribe to our new issues at https://balalaikait.com/*
+
 # General
 - Joseph Gentle [tells us](https://josephg.com/blog/crdts-are-the-future/) about the rise of CRDTs and why he thinks in could beat Operational Transform in many aspects.
 - One who wants to write fast code has to understand weak and strong points of modern HW. Cliff Click gave a brilliant [talk](https://youtu.be/OFgxAFdxYAQ) where he explains those points.
